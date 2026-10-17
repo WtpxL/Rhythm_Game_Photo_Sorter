@@ -1,0 +1,2406 @@
+{
+  "game": "arcaea",
+  "name": "Arcaea",
+  "updated_at": "2026-10-17T04:42:59Z",
+  "songs": [
+    {
+      "title": "+1(UNKNOWN)-NUMBER",
+      "aliases": []
+    },
+    {
+      "title": "0xe0e1ccull",
+      "aliases": []
+    },
+    {
+      "title": "10pt8ion",
+      "aliases": []
+    },
+    {
+      "title": "1F√",
+      "aliases": []
+    },
+    {
+      "title": "3rd Avenue",
+      "aliases": []
+    },
+    {
+      "title": "7thSense",
+      "aliases": []
+    },
+    {
+      "title": "8-EM",
+      "aliases": []
+    },
+    {
+      "title": "99 Glooms",
+      "aliases": []
+    },
+    {
+      "title": "A Wandering Melody of Love",
+      "aliases": [
+        "迷える音色は恋の唄"
+      ]
+    },
+    {
+      "title": "AI［UE］OON",
+      "aliases": []
+    },
+    {
+      "title": "ALTER EGO",
+      "aliases": []
+    },
+    {
+      "title": "AMAZING MIGHTYYYY!!!!",
+      "aliases": []
+    },
+    {
+      "title": "ANDORXOR",
+      "aliases": []
+    },
+    {
+      "title": "ASGORE",
+      "aliases": []
+    },
+    {
+      "title": "Abstruse Dilemma",
+      "aliases": []
+    },
+    {
+      "title": "Acheron",
+      "aliases": []
+    },
+    {
+      "title": "Acid God",
+      "aliases": []
+    },
+    {
+      "title": "Aegleseeker",
+      "aliases": []
+    },
+    {
+      "title": "Aether Crest: Astral",
+      "aliases": []
+    },
+    {
+      "title": "Ai Drew",
+      "aliases": []
+    },
+    {
+      "title": "Aleph-0",
+      "aliases": []
+    },
+    {
+      "title": "Alexandrite",
+      "aliases": []
+    },
+    {
+      "title": "Alice à la mode",
+      "aliases": []
+    },
+    {
+      "title": "Alice's Suitcase",
+      "aliases": []
+    },
+    {
+      "title": "Alone & Lorn",
+      "aliases": [
+        "アローンアンドローン"
+      ]
+    },
+    {
+      "title": "Altair (feat. *spiLa*)",
+      "aliases": []
+    },
+    {
+      "title": "Altale",
+      "aliases": []
+    },
+    {
+      "title": "AlterAle",
+      "aliases": []
+    },
+    {
+      "title": "AlterGate",
+      "aliases": []
+    },
+    {
+      "title": "Altersist",
+      "aliases": []
+    },
+    {
+      "title": "Amekagura",
+      "aliases": [
+        "雨神楽"
+      ]
+    },
+    {
+      "title": "Amygdata",
+      "aliases": []
+    },
+    {
+      "title": "And Revive The Melody",
+      "aliases": []
+    },
+    {
+      "title": "Angel's Boundary",
+      "aliases": []
+    },
+    {
+      "title": "Antagonism",
+      "aliases": []
+    },
+    {
+      "title": "Antithese",
+      "aliases": []
+    },
+    {
+      "title": "Anökumene",
+      "aliases": []
+    },
+    {
+      "title": "April showers",
+      "aliases": [
+        "四月の雨"
+      ]
+    },
+    {
+      "title": "Arcahv",
+      "aliases": []
+    },
+    {
+      "title": "Arcana Eden",
+      "aliases": []
+    },
+    {
+      "title": "Arghena",
+      "aliases": []
+    },
+    {
+      "title": "Ascent",
+      "aliases": []
+    },
+    {
+      "title": "Ashen 6oundary",
+      "aliases": []
+    },
+    {
+      "title": "Astra walkthrough",
+      "aliases": []
+    },
+    {
+      "title": "Astral Quantization",
+      "aliases": []
+    },
+    {
+      "title": "Astral tale",
+      "aliases": []
+    },
+    {
+      "title": "Astral.exe",
+      "aliases": []
+    },
+    {
+      "title": "AttraqtiA",
+      "aliases": []
+    },
+    {
+      "title": "Aurgelmir",
+      "aliases": []
+    },
+    {
+      "title": "Auxesia",
+      "aliases": []
+    },
+    {
+      "title": "Avant Raze",
+      "aliases": []
+    },
+    {
+      "title": "Awaken In Ruins",
+      "aliases": []
+    },
+    {
+      "title": "Axium Crisis",
+      "aliases": []
+    },
+    {
+      "title": "B.B.K.K.B.K.K.",
+      "aliases": []
+    },
+    {
+      "title": "BADTEK",
+      "aliases": []
+    },
+    {
+      "title": "BATTLE NO.1",
+      "aliases": []
+    },
+    {
+      "title": "BLRINK",
+      "aliases": []
+    },
+    {
+      "title": "BREaK! BREaK! BREaK!",
+      "aliases": []
+    },
+    {
+      "title": "BUCHiGiRE Berserker",
+      "aliases": []
+    },
+    {
+      "title": "Babaroque",
+      "aliases": []
+    },
+    {
+      "title": "Back to Basics",
+      "aliases": []
+    },
+    {
+      "title": "Balor",
+      "aliases": []
+    },
+    {
+      "title": "Bamboo",
+      "aliases": [
+        "竹"
+      ]
+    },
+    {
+      "title": "Be There",
+      "aliases": []
+    },
+    {
+      "title": "Beautiful Dreamer",
+      "aliases": []
+    },
+    {
+      "title": "Beside You",
+      "aliases": []
+    },
+    {
+      "title": "Black Lotus",
+      "aliases": []
+    },
+    {
+      "title": "Black MInD",
+      "aliases": []
+    },
+    {
+      "title": "Black Mirror on the Wall",
+      "aliases": []
+    },
+    {
+      "title": "Black Territory",
+      "aliases": []
+    },
+    {
+      "title": "Blaster",
+      "aliases": []
+    },
+    {
+      "title": "BlazinG AIR",
+      "aliases": []
+    },
+    {
+      "title": "Blocked Library",
+      "aliases": []
+    },
+    {
+      "title": "Blossoms",
+      "aliases": []
+    },
+    {
+      "title": "Blue Rose",
+      "aliases": []
+    },
+    {
+      "title": "Blue comet",
+      "aliases": []
+    },
+    {
+      "title": "BlythE",
+      "aliases": []
+    },
+    {
+      "title": "Bookmaker (2D Version)",
+      "aliases": []
+    },
+    {
+      "title": "Brand new world",
+      "aliases": []
+    },
+    {
+      "title": "Breach of Faith",
+      "aliases": []
+    },
+    {
+      "title": "Bullet Waiting for Me (James Landino remix)",
+      "aliases": []
+    },
+    {
+      "title": "C.s.q.n.",
+      "aliases": []
+    },
+    {
+      "title": "CHAIN2NITE",
+      "aliases": []
+    },
+    {
+      "title": "CHAOS",
+      "aliases": []
+    },
+    {
+      "title": "CHAOSBLAST",
+      "aliases": []
+    },
+    {
+      "title": "CROSS†OVER",
+      "aliases": []
+    },
+    {
+      "title": "CROSS†SOUL",
+      "aliases": []
+    },
+    {
+      "title": "CYCLES",
+      "aliases": []
+    },
+    {
+      "title": "Call My Name feat. Yukacco",
+      "aliases": []
+    },
+    {
+      "title": "Callima Karma",
+      "aliases": []
+    },
+    {
+      "title": "Can I Friend You on Bassbook? Lol",
+      "aliases": [
+        "ベースラインやってる？ｗ"
+      ]
+    },
+    {
+      "title": "Capella",
+      "aliases": []
+    },
+    {
+      "title": "Carmine:scythe",
+      "aliases": []
+    },
+    {
+      "title": "Cataclysm Cry",
+      "aliases": []
+    },
+    {
+      "title": "Chelsea",
+      "aliases": []
+    },
+    {
+      "title": "Chromafill",
+      "aliases": []
+    },
+    {
+      "title": "Chronicle",
+      "aliases": []
+    },
+    {
+      "title": "Chronologia",
+      "aliases": []
+    },
+    {
+      "title": "Chronostasis",
+      "aliases": []
+    },
+    {
+      "title": "Château de cartes",
+      "aliases": []
+    },
+    {
+      "title": "Climax",
+      "aliases": []
+    },
+    {
+      "title": "Clotho and the stargazer",
+      "aliases": [
+        "クロートーと星の観測者"
+      ]
+    },
+    {
+      "title": "Coastal Highway",
+      "aliases": []
+    },
+    {
+      "title": "Cocoro*cosmetic",
+      "aliases": []
+    },
+    {
+      "title": "Code: Oblivion",
+      "aliases": []
+    },
+    {
+      "title": "Conflict",
+      "aliases": []
+    },
+    {
+      "title": "Corps-sans-organes",
+      "aliases": []
+    },
+    {
+      "title": "Corruption",
+      "aliases": []
+    },
+    {
+      "title": "Cosmica",
+      "aliases": []
+    },
+    {
+      "title": "Cosmo Pop Funclub",
+      "aliases": [
+        "コスモポップファンクラブ"
+      ]
+    },
+    {
+      "title": "Cosmogyral",
+      "aliases": []
+    },
+    {
+      "title": "Crimson Quartz",
+      "aliases": []
+    },
+    {
+      "title": "Crimson Throne",
+      "aliases": []
+    },
+    {
+      "title": "Cry of viyella",
+      "aliases": []
+    },
+    {
+      "title": "Cryogenic",
+      "aliases": []
+    },
+    {
+      "title": "Crystal Gravity",
+      "aliases": []
+    },
+    {
+      "title": "Cyaegha",
+      "aliases": []
+    },
+    {
+      "title": "Cyanine",
+      "aliases": []
+    },
+    {
+      "title": "Cybernecia Catharsis",
+      "aliases": []
+    },
+    {
+      "title": "DA'AT -The First Seeker of Souls-",
+      "aliases": []
+    },
+    {
+      "title": "DDD",
+      "aliases": []
+    },
+    {
+      "title": "DEINOS PHAINEIN",
+      "aliases": []
+    },
+    {
+      "title": "DIE IN",
+      "aliases": []
+    },
+    {
+      "title": "DREAD AREA",
+      "aliases": []
+    },
+    {
+      "title": "DRG",
+      "aliases": []
+    },
+    {
+      "title": "DX Choseinou Full Metal Shojo",
+      "aliases": [
+        "DX超性能フルメタル少女"
+      ]
+    },
+    {
+      "title": "Dancin' on a Cat's Paw",
+      "aliases": [
+        "ネコノテ・カリタガール"
+      ]
+    },
+    {
+      "title": "Dandelion",
+      "aliases": []
+    },
+    {
+      "title": "Dantalion",
+      "aliases": []
+    },
+    {
+      "title": "DataErr0r",
+      "aliases": []
+    },
+    {
+      "title": "Dazzle hop",
+      "aliases": []
+    },
+    {
+      "title": "Death By Glamour",
+      "aliases": [
+        "華麗なる死闘"
+      ]
+    },
+    {
+      "title": "Defection",
+      "aliases": []
+    },
+    {
+      "title": "Dematerialized",
+      "aliases": []
+    },
+    {
+      "title": "Dement ~after legend~",
+      "aliases": []
+    },
+    {
+      "title": "Desertrealm",
+      "aliases": []
+    },
+    {
+      "title": "Designant.",
+      "aliases": []
+    },
+    {
+      "title": "Devillic Sphere",
+      "aliases": []
+    },
+    {
+      "title": "Dialnote",
+      "aliases": [
+        "だいあるのーと"
+      ]
+    },
+    {
+      "title": "Dies irae",
+      "aliases": []
+    },
+    {
+      "title": "Diode",
+      "aliases": []
+    },
+    {
+      "title": "Disintegration",
+      "aliases": []
+    },
+    {
+      "title": "Distorted Fate",
+      "aliases": []
+    },
+    {
+      "title": "Distortion Human",
+      "aliases": [
+        "ディストーション・ニンゲン"
+      ]
+    },
+    {
+      "title": "Divine Light of Myriad",
+      "aliases": [
+        "光速神授説 - Divine Light of Myriad -"
+      ]
+    },
+    {
+      "title": "Don't Die",
+      "aliases": []
+    },
+    {
+      "title": "Don't Fight The Music",
+      "aliases": []
+    },
+    {
+      "title": "Dot to Dot feat. shully",
+      "aliases": []
+    },
+    {
+      "title": "Dreadnought",
+      "aliases": []
+    },
+    {
+      "title": "Dream goes on",
+      "aliases": []
+    },
+    {
+      "title": "Dreamin' Attraction!!",
+      "aliases": []
+    },
+    {
+      "title": "Dropdead",
+      "aliases": []
+    },
+    {
+      "title": "Dual Dependency",
+      "aliases": []
+    },
+    {
+      "title": "Dual Doom Deathmatch",
+      "aliases": []
+    },
+    {
+      "title": "Dull Blade",
+      "aliases": []
+    },
+    {
+      "title": "Dynitikós",
+      "aliases": []
+    },
+    {
+      "title": "Désive",
+      "aliases": []
+    },
+    {
+      "title": "ENERGY SYNERGY MATRIX",
+      "aliases": []
+    },
+    {
+      "title": "Eccentric Tale",
+      "aliases": []
+    },
+    {
+      "title": "Eden",
+      "aliases": []
+    },
+    {
+      "title": "Ego Eimi",
+      "aliases": []
+    },
+    {
+      "title": "Einherjar Joker",
+      "aliases": []
+    },
+    {
+      "title": "Ember",
+      "aliases": []
+    },
+    {
+      "title": "Empire of Winter",
+      "aliases": []
+    },
+    {
+      "title": "Enchanted love",
+      "aliases": []
+    },
+    {
+      "title": "End of The Moonlight",
+      "aliases": []
+    },
+    {
+      "title": "Epitaxy",
+      "aliases": []
+    },
+    {
+      "title": "Equilibrium",
+      "aliases": []
+    },
+    {
+      "title": "Essence of Twilight",
+      "aliases": []
+    },
+    {
+      "title": "Eternity Break",
+      "aliases": []
+    },
+    {
+      "title": "Ether Strike",
+      "aliases": []
+    },
+    {
+      "title": "Evening in Scarlet",
+      "aliases": [
+        "緋纏いの宵"
+      ]
+    },
+    {
+      "title": "Evoltex (poppi'n mix)",
+      "aliases": []
+    },
+    {
+      "title": "Extradimensional Cosmic Phenomenon",
+      "aliases": [
+        "多次元宇宙融合論"
+      ]
+    },
+    {
+      "title": "FANTA5Y",
+      "aliases": []
+    },
+    {
+      "title": "FLUFFY FLASH",
+      "aliases": []
+    },
+    {
+      "title": "FREEF4LL",
+      "aliases": []
+    },
+    {
+      "title": "FURETE-MITAI",
+      "aliases": [
+        "フレテミタイ"
+      ]
+    },
+    {
+      "title": "Factorder",
+      "aliases": []
+    },
+    {
+      "title": "Faint Light (Arcaea Edit)",
+      "aliases": []
+    },
+    {
+      "title": "Fairytale",
+      "aliases": []
+    },
+    {
+      "title": "Fallensquare",
+      "aliases": []
+    },
+    {
+      "title": "False Embellishment",
+      "aliases": [
+        "狂言綺語"
+      ]
+    },
+    {
+      "title": "Far Away Light",
+      "aliases": []
+    },
+    {
+      "title": "Feels So Right feat. Renko",
+      "aliases": []
+    },
+    {
+      "title": "Felis",
+      "aliases": []
+    },
+    {
+      "title": "Felys final remix",
+      "aliases": []
+    },
+    {
+      "title": "Filament",
+      "aliases": []
+    },
+    {
+      "title": "Final Step!",
+      "aliases": []
+    },
+    {
+      "title": "First Snow",
+      "aliases": []
+    },
+    {
+      "title": "Flashback",
+      "aliases": []
+    },
+    {
+      "title": "Flexidefine",
+      "aliases": []
+    },
+    {
+      "title": "Floating World",
+      "aliases": []
+    },
+    {
+      "title": "Flyburg and Endroll",
+      "aliases": [
+        "フライブルクとエンドロウル"
+      ]
+    },
+    {
+      "title": "Fracture Ray",
+      "aliases": []
+    },
+    {
+      "title": "Free Myself",
+      "aliases": []
+    },
+    {
+      "title": "G e n g a o z o",
+      "aliases": []
+    },
+    {
+      "title": "GENOCIDER",
+      "aliases": []
+    },
+    {
+      "title": "GIMME DA BLOOD",
+      "aliases": []
+    },
+    {
+      "title": "GIMMICK",
+      "aliases": []
+    },
+    {
+      "title": "GLORY：ROAD",
+      "aliases": []
+    },
+    {
+      "title": "GOODRAGE",
+      "aliases": []
+    },
+    {
+      "title": "GOODTEK (Arcaea Edit)",
+      "aliases": []
+    },
+    {
+      "title": "Galactic Love",
+      "aliases": []
+    },
+    {
+      "title": "Galaxy Friends",
+      "aliases": []
+    },
+    {
+      "title": "Garakuta Doll Play",
+      "aliases": []
+    },
+    {
+      "title": "Gekka (Short Version)",
+      "aliases": []
+    },
+    {
+      "title": "Genesis (Iris)",
+      "aliases": []
+    },
+    {
+      "title": "Genesis (Morrigan)",
+      "aliases": []
+    },
+    {
+      "title": "Gensou no Satellite",
+      "aliases": [
+        "幻想のサテライト"
+      ]
+    },
+    {
+      "title": "Gimme Caramel Popcorn!",
+      "aliases": []
+    },
+    {
+      "title": "Give Me a Nightmare",
+      "aliases": []
+    },
+    {
+      "title": "Glow",
+      "aliases": []
+    },
+    {
+      "title": "God-ish",
+      "aliases": []
+    },
+    {
+      "title": "Goldenslaughterer",
+      "aliases": []
+    },
+    {
+      "title": "Good bye, Merry-Go-Round.",
+      "aliases": []
+    },
+    {
+      "title": "Got hive of Ra",
+      "aliases": []
+    },
+    {
+      "title": "Grandspell",
+      "aliases": []
+    },
+    {
+      "title": "Grievous Lady",
+      "aliases": []
+    },
+    {
+      "title": "Grimheart",
+      "aliases": []
+    },
+    {
+      "title": "HELLOHELL",
+      "aliases": []
+    },
+    {
+      "title": "HIVEMIND",
+      "aliases": []
+    },
+    {
+      "title": "HIVEMIND INTERLINKED",
+      "aliases": []
+    },
+    {
+      "title": "HYPER VISION",
+      "aliases": []
+    },
+    {
+      "title": "Hailstone",
+      "aliases": []
+    },
+    {
+      "title": "Halcyon",
+      "aliases": []
+    },
+    {
+      "title": "Hall of Mirrors",
+      "aliases": []
+    },
+    {
+      "title": "Harutopia ~Utopia of Spring~",
+      "aliases": [
+        "ハルトピア ~Utopia of Spring~"
+      ]
+    },
+    {
+      "title": "Haze of Autumn",
+      "aliases": [
+        "秋の陽炎"
+      ]
+    },
+    {
+      "title": "Head BONK ache",
+      "aliases": []
+    },
+    {
+      "title": "Heart",
+      "aliases": [
+        "心"
+      ]
+    },
+    {
+      "title": "Heart Jackin'",
+      "aliases": []
+    },
+    {
+      "title": "Heartache",
+      "aliases": [
+        "心の痛み"
+      ]
+    },
+    {
+      "title": "Heavenly caress",
+      "aliases": []
+    },
+    {
+      "title": "Heavensdoor",
+      "aliases": []
+    },
+    {
+      "title": "Hidden Rainbows of Epicurus",
+      "aliases": [
+        "エピクロスの虹はもう見えない"
+      ]
+    },
+    {
+      "title": "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+      "aliases": [
+        "緋色月下、狂咲ノ絶 (nayuta 2017 ver.)"
+      ]
+    },
+    {
+      "title": "Hikari",
+      "aliases": [
+        "光"
+      ]
+    },
+    {
+      "title": "Hotarubi no Yuki",
+      "aliases": [
+        "蛍火の雪"
+      ]
+    },
+    {
+      "title": "Hybris (The one who shattered)",
+      "aliases": [
+        "ヒュブリスの頂に聳えるのは"
+      ]
+    },
+    {
+      "title": "Hypnotize",
+      "aliases": []
+    },
+    {
+      "title": "I want You",
+      "aliases": []
+    },
+    {
+      "title": "I've heard it said",
+      "aliases": []
+    },
+    {
+      "title": "IMPACT",
+      "aliases": []
+    },
+    {
+      "title": "INCARNATOR₀₀",
+      "aliases": []
+    },
+    {
+      "title": "INFINITE DIMENSION",
+      "aliases": []
+    },
+    {
+      "title": "INTERNET OVERDOSE",
+      "aliases": []
+    },
+    {
+      "title": "INTERNET YAMERO",
+      "aliases": []
+    },
+    {
+      "title": "IONOSTREAM",
+      "aliases": []
+    },
+    {
+      "title": "IZANA",
+      "aliases": []
+    },
+    {
+      "title": "Iconoclast",
+      "aliases": []
+    },
+    {
+      "title": "Ignition",
+      "aliases": []
+    },
+    {
+      "title": "Ignotus",
+      "aliases": []
+    },
+    {
+      "title": "Ignotus Afterburn",
+      "aliases": []
+    },
+    {
+      "title": "Ikazuchi",
+      "aliases": [
+        "怒槌"
+      ]
+    },
+    {
+      "title": "Illegal Paradise",
+      "aliases": [
+        "堕楽の園"
+      ]
+    },
+    {
+      "title": "Impure Bird",
+      "aliases": [
+        "不浄な白い鳥"
+      ]
+    },
+    {
+      "title": "In Vain",
+      "aliases": []
+    },
+    {
+      "title": "Incomplete the one",
+      "aliases": []
+    },
+    {
+      "title": "Infinite Strife,",
+      "aliases": []
+    },
+    {
+      "title": "Infinity Heaven",
+      "aliases": []
+    },
+    {
+      "title": "Init()",
+      "aliases": []
+    },
+    {
+      "title": "Inkar-usi",
+      "aliases": []
+    },
+    {
+      "title": "Innocence",
+      "aliases": []
+    },
+    {
+      "title": "Inverted World",
+      "aliases": []
+    },
+    {
+      "title": "Jingle",
+      "aliases": []
+    },
+    {
+      "title": "Journey",
+      "aliases": []
+    },
+    {
+      "title": "Judgement",
+      "aliases": []
+    },
+    {
+      "title": "Jump",
+      "aliases": []
+    },
+    {
+      "title": "KYOREN ROMANCE",
+      "aliases": [
+        "狂恋ROMANCE"
+      ]
+    },
+    {
+      "title": "Kanagawa Cyber Culvert",
+      "aliases": [
+        "神奈川電脳暗渠"
+      ]
+    },
+    {
+      "title": "Kanbu de Tomatte Sugu Tokeru",
+      "aliases": [
+        "患部で止まってすぐ溶ける　〜 狂気の優曇華院"
+      ]
+    },
+    {
+      "title": "Kanjou no Matenrou ～Arr.Demetori",
+      "aliases": [
+        "感情の摩天楼 ～Arr.Demetori"
+      ]
+    },
+    {
+      "title": "Kissing Lucifer",
+      "aliases": []
+    },
+    {
+      "title": "LAMIA",
+      "aliases": []
+    },
+    {
+      "title": "LIVHT MY WΔY",
+      "aliases": []
+    },
+    {
+      "title": "La'qryma of the Wasteland",
+      "aliases": []
+    },
+    {
+      "title": "Ladymade Star",
+      "aliases": []
+    },
+    {
+      "title": "Lament Rain",
+      "aliases": []
+    },
+    {
+      "title": "Lapis",
+      "aliases": []
+    },
+    {
+      "title": "Last",
+      "aliases": []
+    },
+    {
+      "title": "Last Celebration",
+      "aliases": []
+    },
+    {
+      "title": "Last Goodbye",
+      "aliases": [
+        "これでホントにサヨナラ"
+      ]
+    },
+    {
+      "title": "Lastendconductor",
+      "aliases": []
+    },
+    {
+      "title": "Lavie",
+      "aliases": []
+    },
+    {
+      "title": "Lawless Point",
+      "aliases": [
+        "無法地点"
+      ]
+    },
+    {
+      "title": "Lazy Addiction",
+      "aliases": []
+    },
+    {
+      "title": "Leave All Behind",
+      "aliases": []
+    },
+    {
+      "title": "Let you DIVE! (nitro rmx)",
+      "aliases": []
+    },
+    {
+      "title": "Let's Rock (Arcaea mix)",
+      "aliases": []
+    },
+    {
+      "title": "Lethaeus",
+      "aliases": []
+    },
+    {
+      "title": "Lethal Voltage",
+      "aliases": []
+    },
+    {
+      "title": "Liar",
+      "aliases": []
+    },
+    {
+      "title": "Libertas",
+      "aliases": []
+    },
+    {
+      "title": "Life is PIANO",
+      "aliases": []
+    },
+    {
+      "title": "LiftOff",
+      "aliases": []
+    },
+    {
+      "title": "Lightning Screw",
+      "aliases": []
+    },
+    {
+      "title": "Lights of Muse",
+      "aliases": []
+    },
+    {
+      "title": "Lilly",
+      "aliases": []
+    },
+    {
+      "title": "Linear Accelerator",
+      "aliases": []
+    },
+    {
+      "title": "Live Fast Die Young",
+      "aliases": []
+    },
+    {
+      "title": "Live Faster Die Younger",
+      "aliases": []
+    },
+    {
+      "title": "Logos",
+      "aliases": []
+    },
+    {
+      "title": "Lost Civilization",
+      "aliases": []
+    },
+    {
+      "title": "Lost Desire",
+      "aliases": []
+    },
+    {
+      "title": "Lost Emotion feat. nomico",
+      "aliases": []
+    },
+    {
+      "title": "Lost in the Abyss",
+      "aliases": []
+    },
+    {
+      "title": "Love me, Love me, Love me",
+      "aliases": []
+    },
+    {
+      "title": "Loveless Dress",
+      "aliases": []
+    },
+    {
+      "title": "Lucid Traveler",
+      "aliases": []
+    },
+    {
+      "title": "Lucifer",
+      "aliases": []
+    },
+    {
+      "title": "Lumia",
+      "aliases": []
+    },
+    {
+      "title": "Luna Rossa",
+      "aliases": []
+    },
+    {
+      "title": "LunarOrbit -believe in the Espebranch road-",
+      "aliases": [
+        "白道、多希望羊と信じありく。"
+      ]
+    },
+    {
+      "title": "Löschen",
+      "aliases": []
+    },
+    {
+      "title": "MAHOROBA",
+      "aliases": []
+    },
+    {
+      "title": "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+      "aliases": []
+    },
+    {
+      "title": "MARENYX",
+      "aliases": []
+    },
+    {
+      "title": "MAXRAGE",
+      "aliases": []
+    },
+    {
+      "title": "MEGALOVANIA",
+      "aliases": []
+    },
+    {
+      "title": "MEGALOVANIA (Camellia Remix)",
+      "aliases": []
+    },
+    {
+      "title": "MERLIN",
+      "aliases": []
+    },
+    {
+      "title": "MIRINAE",
+      "aliases": []
+    },
+    {
+      "title": "MIRROR - kamome sano remix",
+      "aliases": []
+    },
+    {
+      "title": "MORNINGLOOM",
+      "aliases": []
+    },
+    {
+      "title": "MVURBD",
+      "aliases": []
+    },
+    {
+      "title": "Macrocosmic Modulation",
+      "aliases": []
+    },
+    {
+      "title": "Magnolia",
+      "aliases": []
+    },
+    {
+      "title": "Malicious Mischance",
+      "aliases": []
+    },
+    {
+      "title": "Manic Jeer",
+      "aliases": []
+    },
+    {
+      "title": "Masquerade Legion",
+      "aliases": []
+    },
+    {
+      "title": "Maze No.9",
+      "aliases": [
+        "九番目の迷路"
+      ]
+    },
+    {
+      "title": "Mazy Metroplex",
+      "aliases": []
+    },
+    {
+      "title": "Medusa",
+      "aliases": []
+    },
+    {
+      "title": "Melty Rhapsody",
+      "aliases": [
+        "メルティーラプソディー"
+      ]
+    },
+    {
+      "title": "Memory Forest",
+      "aliases": []
+    },
+    {
+      "title": "Memoryfactory.lzh",
+      "aliases": []
+    },
+    {
+      "title": "Meta-Mysteria",
+      "aliases": []
+    },
+    {
+      "title": "Metallic Punisher",
+      "aliases": []
+    },
+    {
+      "title": "Miles",
+      "aliases": []
+    },
+    {
+      "title": "Mirzam",
+      "aliases": []
+    },
+    {
+      "title": "Misdeed -la bonté de Dieu et l'origine du mal-",
+      "aliases": [
+        "業 -善なる神とこの世の悪について-"
+      ]
+    },
+    {
+      "title": "Mistempered Malignance",
+      "aliases": []
+    },
+    {
+      "title": "Mod",
+      "aliases": []
+    },
+    {
+      "title": "Modelista",
+      "aliases": []
+    },
+    {
+      "title": "Monochrome Princess",
+      "aliases": []
+    },
+    {
+      "title": "Moonheart",
+      "aliases": []
+    },
+    {
+      "title": "Moonlight of Sand Castle",
+      "aliases": []
+    },
+    {
+      "title": "My life is mine alone!",
+      "aliases": []
+    },
+    {
+      "title": "NEO WINGS",
+      "aliases": []
+    },
+    {
+      "title": "NULCTRL",
+      "aliases": []
+    },
+    {
+      "title": "NULL APOPHENIA",
+      "aliases": []
+    },
+    {
+      "title": "Nameless Passion",
+      "aliases": []
+    },
+    {
+      "title": "New York Back Raise",
+      "aliases": []
+    },
+    {
+      "title": "Next to you",
+      "aliases": []
+    },
+    {
+      "title": "Nhelv",
+      "aliases": []
+    },
+    {
+      "title": "Nightmare",
+      "aliases": []
+    },
+    {
+      "title": "Nirv lucE",
+      "aliases": []
+    },
+    {
+      "title": "No Way Back",
+      "aliases": []
+    },
+    {
+      "title": "Nέο κόsmo",
+      "aliases": [
+        "neo kosmo"
+      ]
+    },
+    {
+      "title": "OBLIVION",
+      "aliases": []
+    },
+    {
+      "title": "OMAJINAI",
+      "aliases": [
+        "おまじない"
+      ]
+    },
+    {
+      "title": "OMAKENO Stroke",
+      "aliases": []
+    },
+    {
+      "title": "Oblivia",
+      "aliases": []
+    },
+    {
+      "title": "Old School Salvage",
+      "aliases": []
+    },
+    {
+      "title": "On And On!! feat. Jenga",
+      "aliases": []
+    },
+    {
+      "title": "One Last Drive",
+      "aliases": []
+    },
+    {
+      "title": "One Step Closer",
+      "aliases": []
+    },
+    {
+      "title": "Oracle",
+      "aliases": []
+    },
+    {
+      "title": "Oshama Scramble!",
+      "aliases": []
+    },
+    {
+      "title": "Ouroboros -twin stroke of the end-",
+      "aliases": []
+    },
+    {
+      "title": "Ouvertüre",
+      "aliases": []
+    },
+    {
+      "title": "Overdead.",
+      "aliases": []
+    },
+    {
+      "title": "Override",
+      "aliases": []
+    },
+    {
+      "title": "Overwhelm",
+      "aliases": []
+    },
+    {
+      "title": "PICO-Pico-Translation!",
+      "aliases": [
+        "ピコPico*とらんすれーしょんっ！"
+      ]
+    },
+    {
+      "title": "PRAGMATISM",
+      "aliases": []
+    },
+    {
+      "title": "PRIMITIVE LIGHTS",
+      "aliases": []
+    },
+    {
+      "title": "PUPA",
+      "aliases": []
+    },
+    {
+      "title": "Paper Witch",
+      "aliases": []
+    },
+    {
+      "title": "Paradise",
+      "aliases": []
+    },
+    {
+      "title": "Paradox Palette",
+      "aliases": []
+    },
+    {
+      "title": "Paranoid Arc",
+      "aliases": []
+    },
+    {
+      "title": "Particle",
+      "aliases": []
+    },
+    {
+      "title": "Party Vinyl",
+      "aliases": []
+    },
+    {
+      "title": "Pentiment",
+      "aliases": []
+    },
+    {
+      "title": "Phantasia",
+      "aliases": []
+    },
+    {
+      "title": "Placebo♥Battler",
+      "aliases": [
+        "プラシイボ♥バトラー"
+      ]
+    },
+    {
+      "title": "Prayer",
+      "aliases": [
+        "プレヤ"
+      ]
+    },
+    {
+      "title": "Primeval Texture",
+      "aliases": []
+    },
+    {
+      "title": "Prism",
+      "aliases": []
+    },
+    {
+      "title": "Protoflicker",
+      "aliases": []
+    },
+    {
+      "title": "Purgatorium",
+      "aliases": []
+    },
+    {
+      "title": "Purple Verse",
+      "aliases": []
+    },
+    {
+      "title": "Qovat",
+      "aliases": []
+    },
+    {
+      "title": "Qualia -ideaesthesia-",
+      "aliases": []
+    },
+    {
+      "title": "Quon (DJ Noriken)",
+      "aliases": []
+    },
+    {
+      "title": "Quon (Feryquitous)",
+      "aliases": []
+    },
+    {
+      "title": "REKKA RESONANCE",
+      "aliases": [
+        "烈華RESONANCE"
+      ]
+    },
+    {
+      "title": "REconstruction",
+      "aliases": []
+    },
+    {
+      "title": "RGB",
+      "aliases": []
+    },
+    {
+      "title": "ROST PAGE GENE",
+      "aliases": []
+    },
+    {
+      "title": "Rabbit In The Black Room",
+      "aliases": []
+    },
+    {
+      "title": "Rain of Conflict in a Radiant Abyss",
+      "aliases": []
+    },
+    {
+      "title": "Raven's Pride",
+      "aliases": [
+        "レイヴンズ・プライド"
+      ]
+    },
+    {
+      "title": "Rays of Remnant",
+      "aliases": []
+    },
+    {
+      "title": "Red and Blue",
+      "aliases": []
+    },
+    {
+      "title": "Red and Blue and Green",
+      "aliases": []
+    },
+    {
+      "title": "Redolent Shape",
+      "aliases": []
+    },
+    {
+      "title": "Redraw the Colorless World",
+      "aliases": [
+        "無機質世界に彩を"
+      ]
+    },
+    {
+      "title": "Reinvent",
+      "aliases": []
+    },
+    {
+      "title": "Relentless",
+      "aliases": []
+    },
+    {
+      "title": "Remind the Souls (Short Version)",
+      "aliases": []
+    },
+    {
+      "title": "Renegade",
+      "aliases": []
+    },
+    {
+      "title": "ReviXy",
+      "aliases": []
+    },
+    {
+      "title": "Ringed Genesis",
+      "aliases": []
+    },
+    {
+      "title": "Riot in the System",
+      "aliases": []
+    },
+    {
+      "title": "Rise",
+      "aliases": []
+    },
+    {
+      "title": "Rise of the World",
+      "aliases": []
+    },
+    {
+      "title": "Riven Pilgrimage",
+      "aliases": []
+    },
+    {
+      "title": "Romance Wars",
+      "aliases": [
+        "vsキミ戦争"
+      ]
+    },
+    {
+      "title": "Rugie",
+      "aliases": []
+    },
+    {
+      "title": "SACRIFICE feat. ayame",
+      "aliases": []
+    },
+    {
+      "title": "SAIKYO STRONGER",
+      "aliases": [
+        "最強STRONGER"
+      ]
+    },
+    {
+      "title": "SATISFACTION",
+      "aliases": []
+    },
+    {
+      "title": "SOUNDWiTCH",
+      "aliases": []
+    },
+    {
+      "title": "STAGER (ALL STAGE CLEAR)",
+      "aliases": []
+    },
+    {
+      "title": "STARGATE EXTREME",
+      "aliases": []
+    },
+    {
+      "title": "SUPER AMBULANCE",
+      "aliases": []
+    },
+    {
+      "title": "SUPERNOVA",
+      "aliases": []
+    },
+    {
+      "title": "Saint or Sinner",
+      "aliases": []
+    },
+    {
+      "title": "Sakura Fubuki",
+      "aliases": []
+    },
+    {
+      "title": "San skia",
+      "aliases": []
+    },
+    {
+      "title": "Sayonara Hatsukoi",
+      "aliases": []
+    },
+    {
+      "title": "Scarlet Cage",
+      "aliases": []
+    },
+    {
+      "title": "Scarlet Lance",
+      "aliases": []
+    },
+    {
+      "title": "Scarlet Lunar Empress",
+      "aliases": [
+        "朱月ノ姫"
+      ]
+    },
+    {
+      "title": "Seclusion",
+      "aliases": []
+    },
+    {
+      "title": "See the Lights!",
+      "aliases": []
+    },
+    {
+      "title": "Senkyou",
+      "aliases": []
+    },
+    {
+      "title": "Shades of Light in a Transcendent Realm",
+      "aliases": []
+    },
+    {
+      "title": "Sheriruth",
+      "aliases": []
+    },
+    {
+      "title": "Sheriruth (Laur Remix)",
+      "aliases": []
+    },
+    {
+      "title": "Shinchoku Doudesuka?",
+      "aliases": [
+        "進捗どうですか?"
+      ]
+    },
+    {
+      "title": "Shrink",
+      "aliases": []
+    },
+    {
+      "title": "Sign of \"10.5km\"",
+      "aliases": []
+    },
+    {
+      "title": "Signal",
+      "aliases": []
+    },
+    {
+      "title": "Silent Rush",
+      "aliases": []
+    },
+    {
+      "title": "Singularity",
+      "aliases": []
+    },
+    {
+      "title": "Singularity VVVIP",
+      "aliases": []
+    },
+    {
+      "title": "Small Cloud Sugar Candy",
+      "aliases": []
+    },
+    {
+      "title": "Snow White",
+      "aliases": []
+    },
+    {
+      "title": "Solitary Dream",
+      "aliases": [
+        "虚空の夢"
+      ]
+    },
+    {
+      "title": "Someday",
+      "aliases": []
+    },
+    {
+      "title": "Spear of Justice",
+      "aliases": []
+    },
+    {
+      "title": "Specta",
+      "aliases": []
+    },
+    {
+      "title": "Spider Dance",
+      "aliases": []
+    },
+    {
+      "title": "Spider's Thread",
+      "aliases": [
+        "蜘蛛の糸"
+      ]
+    },
+    {
+      "title": "Spirit of the Dauntless",
+      "aliases": []
+    },
+    {
+      "title": "Stasis",
+      "aliases": []
+    },
+    {
+      "title": "Straight into the lights",
+      "aliases": []
+    },
+    {
+      "title": "Stratoliner",
+      "aliases": []
+    },
+    {
+      "title": "Strongholds",
+      "aliases": []
+    },
+    {
+      "title": "Subsphere in Eclosion",
+      "aliases": [
+        "羽化する亜球体"
+      ]
+    },
+    {
+      "title": "Sucromania",
+      "aliases": []
+    },
+    {
+      "title": "Sulfur",
+      "aliases": []
+    },
+    {
+      "title": "Summer Fireworks of Love",
+      "aliases": [
+        "彩る夏の恋花火"
+      ]
+    },
+    {
+      "title": "Suomi",
+      "aliases": []
+    },
+    {
+      "title": "Surrender",
+      "aliases": []
+    },
+    {
+      "title": "Swan Song",
+      "aliases": []
+    },
+    {
+      "title": "Synthesis.",
+      "aliases": []
+    },
+    {
+      "title": "Syriana",
+      "aliases": []
+    },
+    {
+      "title": "Syro",
+      "aliases": []
+    },
+    {
+      "title": "Syūten",
+      "aliases": []
+    },
+    {
+      "title": "TEmPTaTiON",
+      "aliases": []
+    },
+    {
+      "title": "THE ULTIMACY",
+      "aliases": []
+    },
+    {
+      "title": "TRPNO",
+      "aliases": []
+    },
+    {
+      "title": "Taboo tears you up 2017",
+      "aliases": []
+    },
+    {
+      "title": "Technicolour",
+      "aliases": []
+    },
+    {
+      "title": "Telepathy",
+      "aliases": []
+    },
+    {
+      "title": "Tempestissimo",
+      "aliases": []
+    },
+    {
+      "title": "TeraVolt",
+      "aliases": []
+    },
+    {
+      "title": "Teriqma",
+      "aliases": []
+    },
+    {
+      "title": "Testify",
+      "aliases": []
+    },
+    {
+      "title": "The 'Raft' taught me: your heart will always find a way.",
+      "aliases": [
+        "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。"
+      ]
+    },
+    {
+      "title": "The Forgotten Forest Haven",
+      "aliases": []
+    },
+    {
+      "title": "The Formula",
+      "aliases": []
+    },
+    {
+      "title": "The Message",
+      "aliases": []
+    },
+    {
+      "title": "The Survivor (Game Edit)",
+      "aliases": []
+    },
+    {
+      "title": "Third Sun",
+      "aliases": []
+    },
+    {
+      "title": "Tic! Tac! Toe!",
+      "aliases": []
+    },
+    {
+      "title": "Tie me down gently",
+      "aliases": []
+    },
+    {
+      "title": "Tiferet",
+      "aliases": []
+    },
+    {
+      "title": "To the Furthest Dream",
+      "aliases": [
+        "彼方の夢へと"
+      ]
+    },
+    {
+      "title": "To the Milky Way",
+      "aliases": []
+    },
+    {
+      "title": "To: Alice Liddell",
+      "aliases": [
+        "アリス・リデルに捧ぐ"
+      ]
+    },
+    {
+      "title": "Transient Space",
+      "aliases": []
+    },
+    {
+      "title": "Trap Crow",
+      "aliases": []
+    },
+    {
+      "title": "Trappola bewitching",
+      "aliases": [
+        "妖艶魔女 -trappola bewitching-"
+      ]
+    },
+    {
+      "title": "Trrricksters!!",
+      "aliases": []
+    },
+    {
+      "title": "Tsuki ni Murakumo, Hana ni Kaze",
+      "aliases": [
+        "月に叢雲華に風"
+      ]
+    },
+    {
+      "title": "Turbocharger",
+      "aliases": []
+    },
+    {
+      "title": "Tutorial",
+      "aliases": []
+    },
+    {
+      "title": "Twilight Concerto",
+      "aliases": [
+        "黄昏の協奏曲"
+      ]
+    },
+    {
+      "title": "U.A.D",
+      "aliases": []
+    },
+    {
+      "title": "UNKNOWN LEVELS",
+      "aliases": []
+    },
+    {
+      "title": "UNUSED LEVELS",
+      "aliases": []
+    },
+    {
+      "title": "Ultimate taste",
+      "aliases": []
+    },
+    {
+      "title": "Ultradiaxon-N3",
+      "aliases": []
+    },
+    {
+      "title": "Un",
+      "aliases": []
+    },
+    {
+      "title": "Undefined",
+      "aliases": []
+    },
+    {
+      "title": "Undying Macula",
+      "aliases": []
+    },
+    {
+      "title": "Used to be",
+      "aliases": []
+    },
+    {
+      "title": "VECTOЯ",
+      "aliases": []
+    },
+    {
+      "title": "Vainspire",
+      "aliases": []
+    },
+    {
+      "title": "Valhalla:0",
+      "aliases": []
+    },
+    {
+      "title": "Vallista",
+      "aliases": []
+    },
+    {
+      "title": "Vandalism",
+      "aliases": []
+    },
+    {
+      "title": "Vexaria",
+      "aliases": []
+    },
+    {
+      "title": "ViRTUS",
+      "aliases": []
+    },
+    {
+      "title": "Vicious Heroism",
+      "aliases": []
+    },
+    {
+      "title": "Vindication",
+      "aliases": []
+    },
+    {
+      "title": "Viola Illyria",
+      "aliases": []
+    },
+    {
+      "title": "Vivid Theory",
+      "aliases": []
+    },
+    {
+      "title": "Viyella's Tears",
+      "aliases": []
+    },
+    {
+      "title": "Vulcānus",
+      "aliases": [
+        "Vulcanus"
+      ]
+    },
+    {
+      "title": "WAIT FOR DAWN",
+      "aliases": []
+    },
+    {
+      "title": "Wake in Hour",
+      "aliases": [
+        "始マリノ詩"
+      ]
+    },
+    {
+      "title": "Waltz for Lorelei",
+      "aliases": []
+    },
+    {
+      "title": "We're All Gonna Die",
+      "aliases": []
+    },
+    {
+      "title": "Welcome, Queen of Fiction.",
+      "aliases": []
+    },
+    {
+      "title": "Wish Upon a Snow",
+      "aliases": []
+    },
+    {
+      "title": "With U",
+      "aliases": []
+    },
+    {
+      "title": "Won't Back Down",
+      "aliases": []
+    },
+    {
+      "title": "World Ender",
+      "aliases": [
+        "魔王"
+      ]
+    },
+    {
+      "title": "World Fragments III(radio edit)",
+      "aliases": []
+    },
+    {
+      "title": "World Vanquisher",
+      "aliases": []
+    },
+    {
+      "title": "World.execute(me);",
+      "aliases": []
+    },
+    {
+      "title": "XTREME",
+      "aliases": []
+    },
+    {
+      "title": "Xanatos",
+      "aliases": []
+    },
+    {
+      "title": "Xeraphinite",
+      "aliases": []
+    },
+    {
+      "title": "Xterfusion",
+      "aliases": []
+    },
+    {
+      "title": "Xxium and Purple haze",
+      "aliases": []
+    },
+    {
+      "title": "Yomibito shirazu",
+      "aliases": [
+        "ヨミビトシラズ"
+      ]
+    },
+    {
+      "title": "Yosakura Fubuki",
+      "aliases": [
+        "夜桜吹雪"
+      ]
+    },
+    {
+      "title": "Your Best Nightmare",
+      "aliases": [
+        "最高の悪夢"
+      ]
+    },
+    {
+      "title": "Your voice so... feat. Such",
+      "aliases": []
+    },
+    {
+      "title": "Zephyrlasting",
+      "aliases": []
+    },
+    {
+      "title": "~ +",
+      "aliases": []
+    },
+    {
+      "title": "Ävril -Flicka i krans-",
+      "aliases": []
+    },
+    {
+      "title": "͟͝͞Ⅱ́̕",
+      "aliases": [
+        "II",
+        "2"
+      ]
+    },
+    {
+      "title": "Αterlβus",
+      "aliases": [
+        "aterlbus"
+      ]
+    },
+    {
+      "title": "Γuarδina",
+      "aliases": [
+        "guardina"
+      ]
+    },
+    {
+      "title": "ΛZΛLEΛ",
+      "aliases": []
+    },
+    {
+      "title": "Μ",
+      "aliases": []
+    },
+    {
+      "title": "ΟΔΥΣΣΕΙΑ",
+      "aliases": []
+    },
+    {
+      "title": "Τ (tau)",
+      "aliases": []
+    },
+    {
+      "title": "Ω4",
+      "aliases": [
+        "w4"
+      ]
+    },
+    {
+      "title": "⊥⊬",
+      "aliases": [
+        "Sacrosanct"
+      ]
+    },
+    {
+      "title": "〇、",
+      "aliases": []
+    },
+    {
+      "title": "＃1f1e33",
+      "aliases": []
+    },
+    {
+      "title": "［X］",
+      "aliases": []
+    }
+  ]
+}

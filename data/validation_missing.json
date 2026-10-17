@@ -1,0 +1,16 @@
+{
+  "maimai": {
+    "csv_total_rows": 3143,
+    "unique_songs": 833,
+    "matched_exact": 824,
+    "matched_after_normalize": 9,
+    "missing": []
+  },
+  "chunithm": {
+    "csv_total_rows": 1729,
+    "unique_songs": 465,
+    "matched_exact": 463,
+    "matched_after_normalize": 2,
+    "missing": []
+  }
+}

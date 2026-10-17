@@ -1,0 +1,102 @@
+{
+  "arcaea": [
+    {
+      "name": "PAST",
+      "aliases": [
+        "PST"
+      ]
+    },
+    {
+      "name": "PRESENT",
+      "aliases": [
+        "PRS"
+      ]
+    },
+    {
+      "name": "FUTURE",
+      "aliases": [
+        "FTR"
+      ]
+    },
+    {
+      "name": "BEYOND",
+      "aliases": [
+        "BYD"
+      ]
+    },
+    {
+      "name": "ETERNAL",
+      "aliases": [
+        "ETR"
+      ]
+    },
+    {
+      "name": "INSCRIBED",
+      "aliases": [
+        "INS"
+      ]
+    }
+  ],
+  "maimai": [
+    {
+      "name": "BASIC",
+      "aliases": []
+    },
+    {
+      "name": "ADVANCED",
+      "aliases": []
+    },
+    {
+      "name": "EXPERT",
+      "aliases": []
+    },
+    {
+      "name": "MASTER",
+      "aliases": []
+    },
+    {
+      "name": "Re:MASTER",
+      "aliases": [
+        "ReM",
+        "RE:MASTER"
+      ]
+    }
+  ],
+  "chunithm": [
+    {
+      "name": "BASIC",
+      "aliases": [
+        "BSC"
+      ]
+    },
+    {
+      "name": "ADVANCED",
+      "aliases": [
+        "ADV"
+      ]
+    },
+    {
+      "name": "EXPERT",
+      "aliases": [
+        "EXP"
+      ]
+    },
+    {
+      "name": "MASTER",
+      "aliases": [
+        "MAS",
+        "MST"
+      ]
+    },
+    {
+      "name": "ULTIMA",
+      "aliases": []
+    },
+    {
+      "name": "WORLD'S END",
+      "aliases": [
+        "世界末日"
+      ]
+    }
+  ]
+}
